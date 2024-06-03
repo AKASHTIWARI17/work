@@ -1,0 +1,1 @@
+const newuser= document.querySelector(".new-user")
